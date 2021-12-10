@@ -39,7 +39,7 @@ const FULL_HEART = '♥'
 
 
 
-//this works
+
 // function testFunc() {
 //   let likes = document.getElementsByClassName('like')
 //   for (let el of likes) {
@@ -75,7 +75,11 @@ const FULL_HEART = '♥'
 
 
 
-
+// this works, don't delete
+// this works, don't delete
+// this works, don't delete
+// this works, don't delete
+// this works, don't delete
 document.addEventListener('DOMContentLoaded', () => {
   const clickEmptyHeart = document.querySelector('.like-glyph')
   clickEmptyHeart.forEach(heart => heart.addEventListener('click', func1))
@@ -104,6 +108,40 @@ function func1(e){
     }, 3000)
   })
 }
+// this works, don't delete
+// this works, don't delete
+// this works, don't delete
+// this works, don't delete
+// this works, don't delete
+
+
+
+
+
+
+// // 12-3 reattempt 
+
+// document.querySelector('DOMContentLoaded', () => {
+//   const clickEmptyHeart = document.querySelector('span#like-glyph')
+//   clickEmptyHeart.forEach(heart => )
+
+// })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
